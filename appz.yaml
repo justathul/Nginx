@@ -1,7 +1,7 @@
     app:
         name: Nginx
         code: NGINX
-        notify: appzdev@cloudbourne.co
+        notify: apsuresh@ecloudcontrol.com
         
     build:
         version: 1.2
